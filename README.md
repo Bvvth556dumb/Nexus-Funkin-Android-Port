@@ -9,6 +9,7 @@ PC Requirements:
 Basically any PC that came after 2010 or better. If you have performance issues disable antialiasing in the options menu.
 
 Android Requirements:
+
 64 bit
 5 RAM or higher
 Good processor.
